@@ -139,3 +139,6 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+
+##React-JS Modules####
+src/frontend/node_modules/
