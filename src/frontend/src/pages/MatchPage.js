@@ -1,7 +1,6 @@
 import { React, useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { MatchDetailCard } from '../components/MatchDetailCard.js';
-import { MatchSmallCard } from '../components/MatchSmallCard.js';
 import './MatchPage.scss'
 import { YearSelector } from '../components/YearSelector.js';
 
